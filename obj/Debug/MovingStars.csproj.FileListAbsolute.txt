@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\MovingStars\bin\Debug\MovingStars.exe.config
+C:\Users\Максим\source\repos\MovingStars\bin\Debug\MovingStars.exe
+C:\Users\Максим\source\repos\MovingStars\bin\Debug\MovingStars.pdb
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.Form1.resources
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.Properties.Resources.resources
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.exe
+C:\Users\Максим\source\repos\MovingStars\obj\Debug\MovingStars.pdb
